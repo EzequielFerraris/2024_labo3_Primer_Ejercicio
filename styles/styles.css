@@ -102,6 +102,13 @@ footer p {
     color: #606C38;
 }
 
+.text-emphasis {
+    font-size: 1.5rem;
+    color: #606C38;
+    font-family: Garamond, serif;
+    font-weight: bolder;
+}
+
 .avaiable {
     color: green;
 }
